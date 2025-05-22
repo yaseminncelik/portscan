@@ -1,0 +1,5 @@
+time=2025-05-22 15:33:13 , host=192.168.94.130 ,port=135 protokol=tcp , port_durumu=open , service=msrpc
+time=2025-05-22 15:33:13 , host=192.168.94.130 ,port=139 protokol=tcp , port_durumu=open , service=netbios-ssn
+time=2025-05-22 15:33:13 , host=192.168.94.130 ,port=445 protokol=tcp , port_durumu=open , service=microsoft-ds
+time=2025-05-22 15:33:26 , host=192.168.94.130 ,port=5040 protokol=tcp , port_durumu=open , service=unknown
+time=2025-05-22 15:33:26 , host=192.168.94.130 ,port=7680 protokol=tcp , port_durumu=open , service=pando-pub
